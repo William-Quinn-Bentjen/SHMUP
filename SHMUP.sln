@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SHMUP", "SHMUP.csproj", "{90B3D363-166B-2A62-825D-C7332627FDF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SHMUP.Editor", "SHMUP.Editor.csproj", "{3EC4B489-B455-3A1B-3A74-5F6F0024CEED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90B3D363-166B-2A62-825D-C7332627FDF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90B3D363-166B-2A62-825D-C7332627FDF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90B3D363-166B-2A62-825D-C7332627FDF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90B3D363-166B-2A62-825D-C7332627FDF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EC4B489-B455-3A1B-3A74-5F6F0024CEED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC4B489-B455-3A1B-3A74-5F6F0024CEED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EC4B489-B455-3A1B-3A74-5F6F0024CEED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EC4B489-B455-3A1B-3A74-5F6F0024CEED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
